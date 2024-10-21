@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+id_ed25519_image.pub
+id_ed25519_image
